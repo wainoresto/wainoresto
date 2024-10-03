@@ -1,4 +1,12 @@
-## Hi there 👋
+#Who is Noah?
+
+I'll be using this space to help me develop skills and understanding related to GitHub processes and also capture and document important things that come up in my professional life. 
+
+The goal is use this space as a learning plaform for myself and others and find a way to leverage the lessons learned for something behind my coporate professional life.
+
+- I'm currently a technical writer and illustrator that has experience in a wide variety of business spaces.
+- I moonlight as a jiu jitsu instructor and practitioner in my free time. Presently a black belt 🥋
+- Feel free to connect with me on LinkedIn - [link coming soon...]
 
 <!--
 **wainoresto/wainoresto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
